@@ -1,0 +1,30 @@
+{
+  "name": "زنترا - وكالة التسويق الإبداعي",
+  "short_name": "زنترا",
+  "description": "نُبرز كل علامة تجارية — زنترا، شريككم في التسويق الإبداعي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E0E0E",
+  "theme_color": "#6C63FF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "marketing", "design"],
+  "lang": "ar",
+  "dir": "rtl",
+  "scope": "/",
+  "prefer_related_applications": false
+}
+
